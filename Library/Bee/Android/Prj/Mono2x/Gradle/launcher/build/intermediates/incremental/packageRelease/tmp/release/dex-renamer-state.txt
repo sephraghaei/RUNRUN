@@ -1,0 +1,4 @@
+#Mon Jun 06 18:49:29 PDT 2022
+base.0=F\:\\UNITY PROJECTS\\3D CUBE RUNNER\\RUNRUN\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
